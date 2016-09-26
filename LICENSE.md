@@ -1,4 +1,4 @@
-## creative commons
+## Creative Commons Legal Code
 
 # CC0 1.0 Universal
 
