@@ -36,3 +36,7 @@ A curated list of Awesome Wox Plugins.
 - [Wox](http://www.getwox.com/) - Wox Official Website.
 - [Wox Documentation](http://doc.getwox.com/) - Wox Documentation for plugin creators.
 - [Wox Repository](https://github.com/Wox-launcher/Wox) - Wox Guthub Repository.
+
+## License
+
+[CC0-1.0](./LICENSE).
