@@ -27,7 +27,7 @@ A curated list of Awesome Wox Plugins.
 
 ## Multimedia
 
-- [Spotify]([https://github.com/JohnTheGr8/Wox.Plugin.Spotify) - Spotify plugin.
+- [Spotify](https://github.com/JohnTheGr8/Wox.Plugin.Spotify) - Spotify plugin.
 - [Media](https://github.com/JulianGi/Wox.Plugin.Media) - Control windows media in a similar fashion to the windows media buttons.    
 
 ## System
