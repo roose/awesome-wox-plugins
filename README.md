@@ -5,6 +5,7 @@ A curated list of Awesome Wox Plugins.
 ## Table of Contents
 
 - [Development](#development)
+- [Multiedia](#multimedia)
 - [System](#system)
 - [Helpers](#helpers)
 - [Resources](#resources)
@@ -18,6 +19,16 @@ A curated list of Awesome Wox Plugins.
 - [Open in FileZilla](https://github.com/roose/Wox.Plugin.OpenInFileZilla) -  Open an existing site in Filezilla.
 - [postcss](https://github.com/roose/wox-postcss-search) -  Search PostCSS plugin.
 - [StackOverlow](https://github.com/amalyushko/Wox.Plugin.StackOverlow) -  Search of questions on Stack Overflow.
+- [Github](https://github.com/JohnTheGr8/Wox.Plugin.Github) - Search github repos, browse issues and PRs.
+
+## Text Manipulation
+
+- [ToggleCase](https://github.com/sobujbd/Wox.Plugin.ToggleCase) - Toggle text to lowercase, uppercase, title/capitalized case.    
+
+## Multimedia
+
+- [Spotify]([https://github.com/JohnTheGr8/Wox.Plugin.Spotify) - Spotify plugin.
+- [Media](https://github.com/JulianGi/Wox.Plugin.Media) - Control windows media in a similar fashion to the windows media buttons.    
 
 ## System
 
@@ -26,6 +37,12 @@ A curated list of Awesome Wox Plugins.
 - [Switcheroo](https://github.com/Wox-launcher/Wox.Plugin.Switcheroo) - The humble incremental-search task switcher.
 - [Timestamp](https://github.com/cxfksword/Wox.Plugin.Timestamp) - Converting between timestamps and formatted datetime strings.
 - [Volume](https://github.com/rohm1/wox.plugin.volume) -  Control the system volume.
+- [Choco](https://github.com/blastdan/Wox.Plugin.Choco) - Chocolatey plugin.
+- [IPAdress](https://github.com/ishu3101/Wox.Plugin.IPAddress) - Shows your internal and external IP address.
+
+## Games
+
+- [Steam](https://github.com/SkaceKamen/Wox.Plugin.Steam) - Launch installed Steam games.
 
 ## Helpers
 
