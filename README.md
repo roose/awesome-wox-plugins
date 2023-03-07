@@ -4,11 +4,16 @@ A curated list of Awesome Wox Plugins.
 
 ## Table of Contents
 
+- [AI](#ai)
 - [Development](#development)
 - [Multiedia](#multimedia)
 - [System](#system)
 - [Helpers](#helpers)
 - [Resources](#resources)
+
+## AI
+
+- [ChatGPT](https://github.com/Mnikley/Wox.Plugin.ChatGPT) - ChatGPT Plugin
 
 ## Development
 
